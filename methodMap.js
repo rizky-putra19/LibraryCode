@@ -110,14 +110,14 @@ const daftarMobil = [
 
   
   // Tugas 24/08/2021
-  const a = "rizky"
+  // const a = "rizky"
 
-  if(typeof a == 'number') {
-   console.log('Angka Bilangan bulat')
-  } else if (typeof a == 'string'){
-   console.log('String')
-  } else {
-   console.log('Boolean')
-  }
+  // if(typeof a == 'number') {
+  //  console.log('Angka Bilangan bulat')
+  // } else if (typeof a == 'string'){
+  //  console.log('String')
+  // } else {
+  //  console.log('Boolean')
+  // }
 
-  console.log(a);
+  // console.log(a);
