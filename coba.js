@@ -30,8 +30,6 @@ daftarHadir.map((data) => {
     urutanUsia.push(data.umur)
 });
 
-console.log(urutanUsia);
-
 urutanUsia.sort((a, b) => {return a - b});
 
 console.log(urutanUsia);
